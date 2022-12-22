@@ -1,4 +1,4 @@
-- 👋 I'm @matheusmaiberg a marketeer and dropout of computer engineering.
+- 👋 I'm @matheusmaiberg a growth hacker marketeer and dropout of computer engineering, but i still do a little bit of programming.
 
 - 👀 I’m interested in pretty much anything that can automate marketing and i also do code in Javascript.
 
